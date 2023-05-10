@@ -1,0 +1,28 @@
+#buttonCopy{
+    background-color: aquamarine;
+    color: black;
+    width: 100px;
+    height: 30px;
+    border-radius: 6px;
+    font-size: 15px;
+    margin-top: -40px;
+    position: absolute;
+    z-index: 10000;
+    right: 3%;
+}
+
+.alert{
+    background-color: aquamarine;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px;
+    display: flex;
+    width: 450px;
+    height: 30px;
+    position: absolute;
+    z-index: 10000;
+    border-radius: 6px;
+    margin-top: 5px;
+    margin-right: 40px;
+    right: 0;
+}

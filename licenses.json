@@ -1,0 +1,75 @@
+{
+  "asynckit@0.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/alexindigo/asynckit",
+    "publisher": "Alex Indigo",
+    "email": "iam@alexindigo.com",
+    "path": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/asynckit",
+    "licenseFile": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/asynckit/LICENSE"
+  },
+  "axios@1.4.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/axios/axios",
+    "publisher": "Matt Zabriskie",
+    "path": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/axios",
+    "licenseFile": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/axios/LICENSE"
+  },
+  "combined-stream@1.0.8": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-combined-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/combined-stream",
+    "licenseFile": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/combined-stream/License"
+  },
+  "delayed-stream@1.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/felixge/node-delayed-stream",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/delayed-stream",
+    "licenseFile": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/delayed-stream/License"
+  },
+  "follow-redirects@1.15.2": {
+    "licenses": "MIT",
+    "repository": "https://github.com/follow-redirects/follow-redirects",
+    "publisher": "Ruben Verborgh",
+    "email": "ruben@verborgh.org",
+    "url": "https://ruben.verborgh.org/",
+    "path": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/follow-redirects",
+    "licenseFile": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/follow-redirects/LICENSE"
+  },
+  "form-data@4.0.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/form-data/form-data",
+    "publisher": "Felix Geisendörfer",
+    "email": "felix@debuggable.com",
+    "url": "http://debuggable.com/",
+    "path": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/form-data",
+    "licenseFile": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/form-data/License"
+  },
+  "mime-db@1.52.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-db",
+    "path": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/mime-db",
+    "licenseFile": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/mime-db/LICENSE"
+  },
+  "mime-types@2.1.35": {
+    "licenses": "MIT",
+    "repository": "https://github.com/jshttp/mime-types",
+    "path": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/mime-types",
+    "licenseFile": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/mime-types/LICENSE"
+  },
+  "proxy-from-env@1.1.0": {
+    "licenses": "MIT",
+    "repository": "https://github.com/Rob--W/proxy-from-env",
+    "publisher": "Rob Wu",
+    "email": "rob@robwu.nl",
+    "url": "https://robwu.nl/",
+    "path": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/proxy-from-env",
+    "licenseFile": "/Users/paul/WebstormProjects/work/Extension/LinkedIn Profile/node_modules/proxy-from-env/LICENSE"
+  }
+}
+

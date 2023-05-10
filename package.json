@@ -1,0 +1,29 @@
+{
+  "name": "LinkedIn Profile",
+  "version": "1.0.0",
+  "manifest_version": 3,
+  "author": "Melnyk Pavlo",
+  "license": "MIT",
+  "description": "Extension for LinedIn Profile",
+  "host_permissions": [
+    "https://www.linkedin.com/in/*"
+  ],
+  "permissions": [
+    "webRequest",
+    "tabs",
+    "storage",
+    "activeTab"
+  ],
+  "content_scripts": [
+    {
+      "matches": ["https://www.linkedin.com/*"],
+      "js": ["script.js"],
+      "css": ["style.css"]
+    }
+  ],
+  "devDependencies": {
+    "axios": "^1.1.2"
+  }
+
+}
+
